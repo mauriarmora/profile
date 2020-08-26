@@ -34,6 +34,7 @@ h2 {
   font-family: 'Open Sans';
   color: rgb(0, 150, 255);
   margin-bottom: 18px;
+  font-weight: 600;
 }
 
 #profile-picture {
@@ -45,6 +46,7 @@ h2 {
   font-family: 'Roboto Slab', serif;
   font-size: 18px;
   margin-top: 24px;
+  font-weight: 300;
 }
 
 .lewagon-link {
